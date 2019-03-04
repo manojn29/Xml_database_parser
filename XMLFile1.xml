@@ -1,0 +1,10 @@
+﻿<!--<?xml version="1.0" encoding="utf-8" ?>-->
+﻿<appSettings>
+  <add key="Server" value="Server=LOCALHOST\SQLEXPRESS;">
+  </add>
+  <add key="Database" value="Database=suremdmdb;"></add>
+  <add key="User" value="Uid=sa;">
+  </add>
+  <add key="Password" value="Pwd=42Gears@123;">
+  </add>
+</appSettings>
